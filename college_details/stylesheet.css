@@ -1,0 +1,21 @@
+body{
+background-color:lightgrey;
+color:blue;
+}
+
+img{
+width:500px;
+height:400px;
+}
+
+ol{
+background-color:black;
+color:white;
+}
+p{
+background-color:blue;
+color:white;
+}
+th,td{
+border:solid 1px black
+}

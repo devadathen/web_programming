@@ -1,0 +1,15 @@
+body{
+background-image:url("itachi.jpg");
+background-repeat:repeat-x;
+}
+
+header{
+color:white;
+position:fixed;
+right:0;
+
+
+}
+ul{
+float:left;
+}
